@@ -1,0 +1,29 @@
+ <nav class=" navbar navbar-expand-sm nav navbar-dark" style="background-color : transparent" id="my-nav">
+        <a class="navbar-brand" href="#"><img src="https://assets.website-files.com/5ee098f5efb107e68b185595/5ef53752bb320fa622cda2fd_animate_ui.svg" alt="logo" style="width:139px;height: 37px;"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" style="padding:20px" href="#">Start Here </a>
+                
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" style="padding:20px" href="#">Our Goal</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" style="padding:20px" href="#">Course Outline</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" style="padding:20px" href="#">FAQ</a>
+                </li>
+               
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+                
+                <a class="btn btn-outline-dark btn-group-lg my-2 my-sm-0" style="outline:1px; color: whitesmoke; padding:15px 20px; width: 121.05;height: 56; border-radius: 5px;text-decoration: none;font-family: sans-serif; font-size: 16px TT;" type="submit">Contact Us</a>
+            </form>
+        </div>
+    </nav>
